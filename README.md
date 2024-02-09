@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá, seja bem vindo! 👋
 
 <!--
 **Raissalayla16/RaissaLayla16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
