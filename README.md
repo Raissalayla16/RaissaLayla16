@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 Meu nome é Layla, estou atualmente estudando Ciência da Computação na UFMG.
 - 😊 Escolhi este curso porque sempre me interessei por tecnologia e não me contentava em ser apenas uma pessoa que utilizava dessas ferramentas sem saber o que vem por trás de tudo isso e querer muito fazer parte dessa construção.
-- 🔍 Estou procurando por uma oportunidade de emprego como estagiaria em Desenvolvimento de Software.
+- 🔍 Estou procurando por uma oportunidade de emprego como estagiaria em Desenvolvimento de Software, pois ou apaixonada por esta área.
 - 👩‍💻 Meu objetivo atualmente é aprender o máximo possível, conseguir aproveitar a universidade e as oportunidades que aparecerem. Pretendo aprimorar minhas habilidades, ganhar experiência, aprender muito e espero realizar grandes projetos.
 
 ## Principais tecnologias que eu uso no meu dia:
